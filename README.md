@@ -4,8 +4,13 @@ Unity-разработчик (C#) · мобильные и WebGL-игры · Я�
 Делаю казуальные игры от прототипа до релиза: геймплей, UI, мета-прогрессия, монетизация и интеграция с платформой. Ищу команду, где смогу расти как разработчик.
 
 🎮 Игры на Яндекс Играх
-Block Puzzle — играть на Яндекс Играх · код
-<img src="https://github.com/user-attachments/assets/cc025153-3f28-4fac-9961-b699888da61f" width="200" /> <img src="https://github.com/user-attachments/assets/27ee46c6-9658-4926-8652-96337f87c496" width="200" /> <img src="https://github.com/user-attachments/assets/10ee84db-f37b-4e31-a6fc-9077ec0a6e0a" width="200" />
+### [Block Puzzle](https://yandex.ru/games/app/556364) — [играть на Яндекс Играх](https://yandex.ru/games/app/556364) · [код](https://github.com/Vasia33131/BlockPuzzle)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cc025153-3f28-4fac-9961-b699888da61f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/27ee46c6-9658-4926-8652-96337f87c496" width="30%" />
+  <img src="https://github.com/user-attachments/assets/10ee84db-f37b-4e31-a6fc-9077ec0a6e0a" width="30%" />
+</p>
 
 Головоломка с блоками: бесконечный режим и карта уровней, бустеры, ежедневные задания и награды, магазин, темы оформления. Интеграция Yandex Games SDK: облачные сохранения, лидерборды, rewarded/interstitial/sticky-реклама, внутриигровые покупки, Метрика, локализация RU/EN. Код разбит на сборки (asmdef): Core / Gameplay / Managers / UI / Bootstrap; логика поля (GridModel) отделена от отображения.
 
